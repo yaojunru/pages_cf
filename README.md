@@ -11,10 +11,6 @@
 
 > 提示：`https://a.sub.workers.dev/` 为瞎编的 Workers 或 Pages 部署地址，请修改为自己实际部署的地址；`d342d11e-d424-4583-b36e-524ab1f0afa4` 为项目默认的 UUID，请在实际部署的时候在代码文件的第 6 行处，修改为自己生成的 UUID
 
-## 部署教程
-
-- Workers 教程地址：https://blog.misaka.rest/2023/07/29/cf-wkrs-vless/
-- Pages 教程地址：https://blog.misaka.rest/2023/07/29/cf-pages-vless/
 
 ## 鸣谢项目
 
@@ -29,7 +25,3 @@
 3. 请勿滥用！
 
 ## 赞助
-
-爱发电：https://afdian.net/a/Misaka-blog
-
-![afdian-MisakaNo の 小破站](https://user-images.githubusercontent.com/122191366/211533469-351009fb-9ae8-4601-992a-abbf54665b68.jpg)
